@@ -1,1 +1,1 @@
-web: Python manager.py runserver 0.0.0.0:$PORT
+web: python manager.py runserver 0.0.0.0:$PORT
